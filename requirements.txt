@@ -1,0 +1,4 @@
+mlflow
+scikit-learn
+# for connecting to aws s3 bucket
+boto3
